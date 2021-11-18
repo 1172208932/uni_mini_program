@@ -1,4 +1,4 @@
-# mini-project1
+# mini-project2
 
 ## Project setup
 ```
